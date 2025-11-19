@@ -3,15 +3,15 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
 
-<h1 align="center">My name is Thomas :D</h1>
+<h1 align="center">My name is Thomas Vienot</h1>
 
 <p align="center">
-  <b>🚀 AI Developer • 🧠 Chess Player 🤓 Massive nerd</b>
+  <b>🚀 AI Developer • 🧠 Chess Player</b>
 </p>
 
 ---
 
-## 🔥 About Me
+## About Me
 
 - 🌱 I’m currently learning **How to create a small LLM from sratch**
 - 🛠️ I build mainly with: **Python and Jupyter**
