@@ -5,7 +5,7 @@
 <h1 align="center">Hello There</h1>
 
 <p align="center">
-  <b>🚀 AI Developer • 🧠 Chess Player • 🏐​ Volleybal Lover</b>
+  <b>🚀 AI Developer • 🧠 Chess Player • 🏐​ Volleyball Lover</b>
 </p>
 
 ---
