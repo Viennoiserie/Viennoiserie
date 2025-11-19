@@ -12,8 +12,8 @@
 
 ## About Me
 
-- 🌱 I’m currently learning: **How to create a small LLM from sratch**
-- 🎯 Goals for 2026: **Open-source contributions + Complete root-me challenges**
+- 🌱 I’m currently learning : **How to create a small LLM from sratch**
+- 🎯 Goals for 2026 :         **Open-source contributions + Complete root-me challenges**
 
 ---
 
