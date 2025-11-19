@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[[https://tenor.com/fr/view/gojo-gif-7080179903287954716](https://tenor.com/fr/view/gojo-e-geto-geto-geto-suguru-suguru-geto-gojo-gif-16283004710264845825)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGl2NG1pNHU2MHAwNTdhdm02eWlwZHgwcHY4bXkxaHpyMGpvdm5zciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3bYOn6erhyQBq/giphy.gif)" alt="Gojo GIF" width="400" />
+  <img src="https://media.giphy.com/media/3bYOn6erhyQBq/giphy.gif" alt="Bokuto" width="400" />
 </p>
 
 <h1 align="center">My name is Thomas Vienot</h1>
