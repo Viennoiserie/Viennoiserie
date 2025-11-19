@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3bYOn6erhyQBq/giphy.gif" alt="Bokuto" width="400" />
 </p>
 
-<h1 align="center">Hi, I'm Viennoiserie</h1>
+<h1 align="center">Hello There</h1>
 
 <p align="center">
   <b>🚀 AI Developer • 🧠 Chess Player • 🏐​ Volleybal lover</b>
