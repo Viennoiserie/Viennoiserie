@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Viennoiserie</h1>
 
 <p align="center">
-  <b>🚀 AI Developer • 🧠 Chess Player</b>
+  <b>🚀 AI Developer • 🧠 Chess Player • 🏐​ Volleybal lover</b>
 </p>
 
 ---
