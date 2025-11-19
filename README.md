@@ -1,6 +1,6 @@
 <!-- Banner / Hero Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://tenor.com/iBbsHNtyYZQ.gif)" width="600" />
 </p>
 
 <h1 align="center">My name is Thomas Vienot</h1>
