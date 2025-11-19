@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3bYOn6erhyQBq/giphy.gif" alt="Bokuto" width="400" />
 </p>
 
-<h1 align="center">My name is Thomas Vienot</h1>
+<h1 align="center">Hi, I'm Viennoiserie</h1>
 
 <p align="center">
   <b>🚀 AI Developer • 🧠 Chess Player</b>
@@ -17,7 +17,7 @@
 
 ---
 
-## Stack
+## 👾​ Stack
 
 ### Mainly:
 
@@ -33,13 +33,13 @@
 
 ---
 
-## Stats
+## 🦾 Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viennoiserie&layout=compact&theme=radical" />
 </p>
 
-## Connect with Me
+## 🤡​ Connect with Me
 
 <p align="center">
 <a href="https://github.com/Viennoiserie"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
@@ -53,5 +53,5 @@
 </p>
 
 <p align="center">
-<b>Thanks for coming ! Feel free to star any repo you like :)</b>
+  <b>Thanks for coming ! Feel free to star any repo you like :)</b>
 </p>
