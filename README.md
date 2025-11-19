@@ -1,5 +1,5 @@
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="7080179903287954716" data-share-method="host" data-aspect-ratio="1.03289" data-width="100%"><a href="https://tenor.com/view/gojo-gif-7080179903287954716">Gojo Sticker</a>from <a href="https://tenor.com/search/gojo-stickers">Gojo Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.tenor.com/3V1_WavH0fgAAAAC/gojo.gif" alt="Gojo GIF" width="400" />
 </p>
 
 <h1 align="center">My name is Thomas Vienot</h1>
