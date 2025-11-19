@@ -1,6 +1,5 @@
-<!-- Banner / Hero Image -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://tenor.com/iBbsHNtyYZQ.gif)" width="600" />
+  <img src="https://tenor.com/iBbsHNtyYZQ.gif" width="600" alt="hero gif" />
 </p>
 
 <h1 align="center">My name is Thomas Vienot</h1>
@@ -13,9 +12,8 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **How to create a small LLM from sratch**
-- 🛠️ I build mainly with: **Python and Jupyter**
-- 🎯 Goals for 2025: **Open-source contributions + Complete root-me challenges**
+- 🌱 I’m currently learning: **How to create a small LLM from sratch**
+- 🎯 Goals for 2026: **Open-source contributions + Complete root-me challenges**
 
 ---
 
