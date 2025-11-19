@@ -19,44 +19,21 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,kubernetes,huggingface" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,kubernetes,huggingface,pytorch,sklearn,unity,c,cs" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Viennoiserie&show_icons=true&theme=radical" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viennoiserie&layout=compact&theme=radical" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 **Project 1: Awesome App**
-<img src="https://media.giphy.com/media/iDbVYNYxoJ7qZzJwAj/giphy.gif" width="400" />
-
-**Description:**  
-Cool project details here.  
-👉 Demo: *your link here*  
-👉 Repo: *repo link*
-
----
-
-### 🔹 **Project 2: Cool Tool**
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="400" />
-
-**Description:**  
-What it does + why it’s cool.
-
----
-
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
 <a href="https://github.com/Viennoiserie"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
