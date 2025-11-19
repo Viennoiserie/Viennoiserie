@@ -22,7 +22,7 @@
 ### Mainly:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,kubernetes,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,pytorch,sklearn" />
 </p>
 
 ### But Also:
