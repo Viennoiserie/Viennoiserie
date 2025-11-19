@@ -21,8 +21,16 @@
 
 ## Stack
 
+### Mainly:
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,kubernetes,huggingface,pytorch,sklearn,unity,c,cs" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,kubernetes,pytorch,sklearn" />
+</p>
+
+### But Also:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,c,cs" />
 </p>
 
 ---
