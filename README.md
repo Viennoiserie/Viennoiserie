@@ -3,27 +3,26 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
 
-<h1 align="center">Hey there 👋 I'm Your Name</h1>
+<h1 align="center">My name is Thomas :D</h1>
 
 <p align="center">
-  <b>🚀 Developer • 🧠 Tech Enthusiast • 🎨 Designer (optional)</b>
+  <b>🚀 AI Developer • 🧠 Chess Player 🤓 Massive nerd</b>
 </p>
 
 ---
 
 ## 🔥 About Me
 
-- 🌱 I’m currently learning **[Your Tech]**
-- 🛠️ I build with: **JavaScript, Python, Rust, Go, etc.**
-- 🎯 Goals for 2025: **Open-source contributions + Build a cool product**
-- 💬 Ask me about **web dev, backend, AI, or design**
+- 🌱 I’m currently learning **How to create a small LLM from sratch**
+- 🛠️ I build mainly with: **Python and Jupyter**
+- 🎯 Goals for 2025: **Open-source contributions + Complete root-me challenges**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,nodejs,react,nextjs,tailwind,postgres,redis,aws,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,kubernetes,huggingface" />
 </p>
 
 ---
@@ -31,8 +30,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Viennoiserie&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viennoiserie&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -60,9 +59,8 @@ What it does + why it’s cool.
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-<a href="https://twitter.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=twitter" width="50"/></a>
+<a href="https://github.com/Viennoiserie"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
+<a href="https://www.linkedin.com/in/thomas-vienot-0825001b2/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
 </p>
 
 ---
@@ -72,5 +70,5 @@ What it does + why it’s cool.
 </p>
 
 <p align="center">
-<b>Thanks for stopping by! ⭐ Feel free to star any repo you like</b>
+<b>Thanks for coming ! Feel free to star any repo you like :)</b>
 </p>
