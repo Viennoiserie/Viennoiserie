@@ -10,10 +10,70 @@
 
 ---
 
-## 💬​ About Me
+## 💬​ My projects
 
-- 🌱 I’m currently learning : **How to create a small LLM from sratch**
-- 🎯 Goals for 2026 :         **Open-source contributions + Complete root-me challenges**
+### 🏎️ Formula 1 – Machine Learning Race Predictor
+**End‑to‑end ML pipeline to predict F1 race outcomes**  
+- Data ingestion with FastF1 (qualifying, telemetry, race results)  
+- Feature engineering with season‑to‑date performance  
+- Weighted XGBoost regression model  
+- Live race inference & podium prediction  
+📊 *Data → Analyse → Train → Evaluate → Infer*  
+🔗 https://github.com/Viennoiserie/ML_F1
+
+---
+
+### 🧠 Mini‑RAG (Retrieval‑Augmented Generation)
+**Lightweight RAG system for document‑grounded LLM responses**  
+- Vector search + LLM inference  
+- Designed for fast experimentation and explainability  
+- Clean modular architecture  
+🔗 https://github.com/Viennoiserie/Mini_RAG
+
+---
+
+### 🧬 Bio‑Medical LLM
+**Exploration of LLMs applied to biomedical text analysis**  
+- Domain‑specific NLP  
+- Prompt engineering & knowledge extraction  
+- Focus on explainability and hallucination control  
+🔗 https://github.com/Viennoiserie/Bio_Med_LLM
+
+---
+
+### 🧠 Custom LLM From Scratch
+**Educational project to build and understand an LLM from first principles**  
+- Tokenization, embeddings, attention  
+- Training loop and inference logic  
+- Emphasis on deep understanding, not performance hype  
+🔗 https://github.com/Viennoiserie/LLM_Custom
+
+---
+
+### 💳 Credit Score Prediction (ML)
+**Supervised learning project for credit risk modeling**  
+- Tabular feature engineering  
+- Classical ML models (interpretability‑first approach)  
+- Evaluation with real business constraints  
+🔗 https://github.com/Viennoiserie/Credit_Score_ML
+
+---
+
+### 📈 Stock Screener (ComeUp Client Project)
+**Automated stock screening tool**  
+- Financial indicators & filters  
+- Data‑driven decision support  
+- Delivered as a client‑ready ML solution  
+🔗 https://github.com/Viennoiserie/COMEUP_Stock_Screener
+
+---
+
+### 💬 Sentiment Analysis / Reddit Scraping
+**End‑to‑end NLP pipeline from web scraping to sentiment modeling**  
+- Reddit data collection  
+- Text preprocessing  
+- Sentiment classification  
+🔗 https://github.com/Viennoiserie/Sentiment_Analysis_Reddit_Scraping
 
 ---
 
